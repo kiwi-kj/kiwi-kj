@@ -16,7 +16,7 @@ Apart from my love for data analysis and visualizations, I have a few personal i
 Currently, I am deepening my understanding of text analysis and working on building machine learning models. I find the potential of natural language processing fascinating and believe it holds incredible value in various domains, including business and social applications.
 </p>
 
-<h3 style="font-size: 24px;"><b><i>Recent Project: Game Day Analytics Challenge</i></b></h3>
+<h3 style="font-size: 24px;"><b><i>Recent Project: Winner - Game Day Analytics Challenge</i></b></h3>
 
 <p style="text-align: justify;">
 In this project, me and my team participated in the Game Day Analytics Challenge, focusing on analyzing Super Bowl commercials and related tweets. We used R, Tableau, and Power BI to extract insights from over 1.8 million rows of data.
@@ -36,7 +36,6 @@ Key Achievements:
 <h3 style="font-size: 24px;"><b><i>Connect with Me</i></b></h3>
 
 <p>
-📱 [314-600-5577](tel:+13146005577) <br>
-Email: [kalyanijoshi2011@gmail.com] <br>
-LinkedIn: [linkedin.com/in/kalyanijoshi2009](https://www.linkedin.com/in/kalyanijoshi2009)
+<a href="mailto:kalyanijoshi2011@gmail.com">Email</a> <br>
+<a href="https://www.linkedin.com/in/kalyanijoshi2009">LinkedIn</a>
 </p>
