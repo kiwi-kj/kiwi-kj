@@ -1,7 +1,7 @@
 <h3 style="font-size: 24px;"><b><i>About Me</i></b></h3>
 
 <p style="text-align: justify;">
-Hello there! I'm Kalyani Joshi, a passionate and enthusiastic data analyst with a keen interest in data analysis and visualizations. I am currently pursuing a Master's degree in Business Analytics, with a focus on text analysis and building machine learning models. My journey in data has been both exciting and fulfilling, and I constantly strive to enhance my skills and knowledge in this field.
+Hello there! I'm Kalyani Joshi, a passionate and enthusiastic data analyst with a keen interest in data science, analysis and visualizations. I am currently pursuing a Master's degree in Business Analytics, with a focus on text analysis and building machine learning models. My journey in data has been both exciting and fulfilling, and I constantly strive to enhance my skills and knowledge in this field.
 </p>
 
 <h3 style="font-size: 24px;"><b><i>Interests</i></b></h3>
